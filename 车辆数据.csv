@@ -1,0 +1,5 @@
+﻿vehicle_id,vehicle_district,last_completed_order_id,in_progress_order_id,plan_order_id_list,vehicle_type,vehicle_state
+V1,2,1.1812E+11,1.1812E+11,1.2812E+11,0,1
+V2,56,1.1812E+11,,,1,0
+V3,23,,,,1,0
+V4,1,,1.1812E+11,1.2812E+11,0,1
